@@ -1,0 +1,43 @@
+/* GENERAL */
+
+.container
+{
+    width: 75%;
+}
+
+/* NAV */
+
+.btn-secondary
+{
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.btn-secondary:hover
+{
+    background-color: #212529;
+    border-color: #212529;
+}
+
+/* .btn-secondary:active
+{
+    background-color: #212529;
+    border-color: #212529;
+} */
+
+/* HEADER */
+
+.header
+{
+    background-color: #e6e9ed;
+    height: 300px;
+}
+img
+{
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+/* ETAPE */
